@@ -1,4 +1,4 @@
-# Link
+# OpenLink
 
 A language for connecting everything — from IoT devices to game servers to multi-language glue.
 
@@ -6,7 +6,7 @@ A language for connecting everything — from IoT devices to game servers to mul
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/myiunagn/link/releases)
 
-**Link** 是一门为"互联"而生的语言:从 IoT 设备到游戏后端,再到多语言胶水层。
+**OpenLink** 是一门为"互联"而生的语言:从 IoT 设备到游戏后端,再到多语言胶水层。
 
 v1.0.0 已支持基本类型、控制流、函数、`stream<T>` 数据流、struct/enum 复合类型、**全球 12 种编程语言 FFI 互联**、**多后端编译器**(C / LLVM / Python / WASM)、**借用检查器**、**LSP 语言服务器**、**自举编译器**和**标准库**。
 
